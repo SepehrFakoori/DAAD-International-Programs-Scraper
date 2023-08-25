@@ -20,8 +20,8 @@ The DAAD Programs Scraper is a Python script designed to automate the process of
 ## Requirements
 
 - Python 3.11.2
-- Beautiful Soup
-- Requests
+- Selenium
+- Time
 
 ## Disclaimer
 
